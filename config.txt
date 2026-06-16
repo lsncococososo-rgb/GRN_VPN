@@ -1,1 +1,10 @@
+#profile-title: 🍏GRN_VPN
+#profile-update-interval: 2
+#support-url: https://t.me/info_Grina
+#announce: Интернет без границ!
+#subscription-userinfo: upload=0; download=0; total=10737388383418240; expire=0
+
 vless://f5066450-01f9-439a-b577-6bae91d49238@94.156.170.172:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=GGjGbrBS-j8OGUGywZSqT4I9ZkqtFSB-SUPxox_dJ2M&fp=edge&type=xhttp&sni=wavevpn.xyz&sid=b07c5aef#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://fb14cd66-aa75-4add-ab1b-2e298304b7c7@edge.lk-weg.space:8443?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=SBTBCMd-6q3QSjHNaZK2-tN9o8Z8r0EpoFzZ2E35IgI&fp=chrome&type=xhttp&sni=www.microsoft.com&sid=348f44c27353c463#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://3d6518df-cab2-4840-83fa-a0d0759d1309@31.77.170.16:443?security=reality&encryption=none&pbk=3yIoPy1a8rdUazJ6uF1jIemqEKHjJX_mUSWA6zdu9R0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.odido.nl&sid=8ee296ee2677db93#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
+vless://3d6518df-cab2-4840-83fa-a0d0759d1309@31.76.224.97:443?security=reality&encryption=none&pbk=su9BR8wuVzEIqOyGe86KUp2ZfEqSJbfOlQVhzql9xFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=397921f284dc112d#%F0%9F%87%AB%F0%9F%87%AE%20Finland
