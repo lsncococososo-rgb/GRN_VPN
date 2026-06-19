@@ -1,8 +1,7 @@
 #profile-title: 🌵GRN_VPN
 #profile-update-interval: 2
 #support-url: https://t.me/info_Grina
-#announce: LTE • ОБХОД Б/С может у кого-то не работать! 
-🔀- через Россию (🇷🇺 > 🇪🇺)
+#announce: LTE • ОБХОД Б/С может у кого-то не работать!                        🔀 - через Россию (🇷🇺 > 🇪🇺)
 #subscription-userinfo: upload=0; download=0; total=10737388383418240; expire=0
 
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi1-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&type=xhttp&sni=www.amd.com&sid=32d6b1bf#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1AUTO%20%7C%20Wi-Fi
