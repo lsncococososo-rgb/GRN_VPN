@@ -1,1 +1,121 @@
-
+{
+  "name": "🇪🇺 ⚡AUTO | Wi-Fi",
+  "type": "auto",
+  "servers": [
+    {
+      "name": "🇩🇪 Германия • Игровой",
+      "link": "vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi1-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&type=xhttp&sni=www.amd.com&sid=32d6b1bf#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%80%A2%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9"
+    },
+    {
+      "name": "🇷🇺 RU | Ютуб без рекламы",
+      "link": "vless://3f57060d-d8b8-467c-a669-9c6e62725935@ru.vz-or.com:443?security=reality&encryption=none&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%D0%AE%D1%82%D1%83%D0%B1%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B"
+    },
+    {
+      "name": "🇫🇮 FI | Нейросети 🤖",
+      "link": "vless://91fd18cb-69ce-4b7c-bdf7-3f415e48df68@slarkgame.n43.pw:443?security=reality&encryption=none&pbk=v82LBurkDmZ0WQLtzr0a5dohCFfUOzkA6M14W1GDbnc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slarkgame.n43.pw&sid=6ba85179e30d#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%F0%9F%A4%96"
+    },
+    {
+      "name": "🖥️ TORRENT",
+      "link": "vless://b636a7a3-0cbf-4069-b8e7-3c977cc156be@31.76.119.13:443?security=reality&encryption=none&pbk=K72midoXukD4VufaHddxCrVT-eTb2dOcst8Wzwlp4is&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%F0%9F%96%A5%EF%B8%8F%20TORRENT"
+    },
+    {
+      "name": "🇳🇱 NL | Таллин",
+      "link": "vless://a6c2db88-d89c-0001-954b-ff8676a9f4b8@pro-ru-bridge.emrata.top:443?security=reality&encryption=none&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pro-ru-bridge.emrata.top#%F0%9F%87%AA%F0%9F%87%AA%F0%9F%94%80%20NL%20%7C%20%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD"
+    },
+    {
+      "name": "🇧🇪 BE | Брюссель",
+      "link": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.17:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&allowInsecure=0&type=tcp&headerType=none#🇧🇪🔀%20BE%20|%20Брюссель"
+    },
+    {
+      "name": "🇫🇮 FI | Хельсинки",
+      "link": "vless://13d0c0dc-64e3-4591-bd17-694b0a05ef2e@87.58.213.157:443?security=reality&encryption=none&pbk=auX8jg9-uptL3b3EY47FpgE9Qt5yQ-dGxdz_aHpj53U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60bcfc7d7e54395c#🇫🇮🔀%20FI%20|%20Хельсинки"
+    },
+    {
+      "name": "🇫🇮 FI | Хельсинки 2",
+      "link": "vless://a6c2db88-d89c-48db-954b-ff8676a9f4b8@pro-fi.emrata.top:753?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#🇫🇮🔀%20FI%20|%20Хельсинки%202"
+    },
+    {
+      "name": "🇳🇱 NL | Амстердам",
+      "link": "vless://13d0c0dc-64e3-4591-bd17-694b0a05ef2e@91.92.43.238:443?security=reality&encryption=none&pbk=auX8jg9-uptL3b3EY47FpgE9Qt5yQ-dGxdz_aHpj53U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60bcfc7d7e54395c#🇳🇱🔀%20NL%20|%20Амстердам"
+    },
+    {
+      "name": "🇮🇹 IT | Милан",
+      "link": "vless://a6c2db88-d89c-48db-954b-ff8676a9f4b8@pro-it.emrata.top:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&sni=pro-it.emrata.top#🇮🇹🔀%20IT%20|%20Милан"
+    },
+    {
+      "name": "🇬🇧 UK | Лондон",
+      "link": "vless://a6c2db88-d89c-0032-954b-ff8676a9f4b8@pro-uk.emrata.top:443?security=reality&encryption=none&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&headerType=none&fp=firefox&type=tcp&sni=pro-uk.emrata.top#🇬🇧🔀%20UK%20|%20Лондон"
+    },
+    {
+      "name": "🇩🇪 DE | Франкфурт",
+      "link": "vless://acdb916b-ea01-0032-b5d5-0f89c41dbfcd@free-de-02.la-la-land.top:443?security=reality&encryption=none&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&headerType=none&fp=firefox&type=tcp&sni=free-de-02.la-la-land.top#🇩🇪🔀%20DE%20|%20Франкфурт"
+    },
+    {
+      "name": "🇳🇱 NL | Хопел",
+      "link": "vless://3f57060d-d8b8-467c-a669-9c6e62725935@de.vz-or.com:443?security=reality&encryption=none&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abbcd128#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%D0%A5%D0%BE%D0%BF%D0%B5%D0%BB"
+    },
+    {
+      "name": "🇳🇱 NL | Амстердам 1",
+      "link": "vless://c975ace7-abbc-4bf5-bb59-2ae8aa9fd980@hub.netraidly.ru:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%201"
+    },
+    {
+      "name": "🇳🇱 NL | Амстердам 2",
+      "link": "vless://513f5f64-b352-46a2-ba9e-dbe6bd0fdcc1@94.103.1.155:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%202"
+    },
+    {
+      "name": "🇳🇱 NL | Амстердам 3",
+      "link": "vless://c975ace7-abbc-4bf5-bb59-2ae8aa9fd980@hub.netraidly.ru:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%203"
+    },
+    {
+      "name": "🇳🇱 NL | Амстердам 4",
+      "link": "vless://ca428a2e-7f82-4030-851b-cab731a5645a@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=firefox&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%204"
+    },
+    {
+      "name": "🇩🇪 DE | Франкфурт",
+      "link": "vless://91fd18cb-69ce-4b7c-bdf7-3f415e48df68@slark.sos.al:443?security=reality&encryption=none&pbk=v82LBurkDmZ0WQLtzr0a5dohCFfUOzkA6M14W1GDbnc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slark.sos.al&sid=6ba85179e30d#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%84%D1%83%D1%80%D1%82%20"
+    },
+    {
+      "name": "🇺🇸 US | Буффало 1",
+      "link": "vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=%2F&security=&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%D0%91%D1%83%D1%84%D1%84%D0%B0%D0%BB%D0%BE%201"
+    },
+    {
+      "name": "🇺🇸 US | Буффало 2",
+      "link": "vless://AlfredConfig@199.181.197.176:443?path=%2F&security=tls&encryption=none&host=alfi.yas-nowin.ir&fp=chrome&type=ws&sni=alfi.yas-nowin.ir#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%D0%91%D1%83%D1%84%D1%84%D0%B0%D0%BB%D0%BE%202"
+    },
+    {
+      "name": "🇺🇸 US | Буффало 3",
+      "link": "vless://AlfredConfig@199.181.197.176:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=alfi.yas-nowin.ir&fp=chrome&type=ws&sni=alfi.yas-nowin.ir#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%D0%91%D1%83%D1%84%D1%84%D0%B0%D0%BB%D0%BE%203"
+    },
+    {
+      "name": "🇹🇷 TR | Стамбул 1",
+      "link": "vless://3f57060d-d8b8-467c-a669-9c6e62725935@tr.vz-or.com:443?security=reality&encryption=none&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&sid=abbcd128#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB%201"
+    },
+    {
+      "name": "🇧🇪 BE | Брюссель",
+      "link": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.17:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#%F0%9F%87%A7%F0%9F%87%AA%20%20BE%20%7C%20%D0%91%D1%80%D1%8E%D1%81%D1%81%D0%B5%D0%BB%D1%8C"
+    },
+    {
+      "name": "🇧🇬 BG | Белград",
+      "link": "vless://1dd5f2be-f124-4f35-9239-8abc042829c2@149.33.31.115:14302?security=reality&encryption=none&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=106f1604d65bb70c#%F0%9F%87%B7%F0%9F%87%B8%20BG%20%7C%20%D0%91%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4"
+    },
+    {
+      "name": "🇸🇪 SE | Стокгольм",
+      "link": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.22:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%20"
+    },
+    {
+      "name": "🇯🇵 JP | Токио",
+      "link": "vless://33cbc251-1ed2-49bd-bd23-e1d3d36137d6@jp-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&authority=google.com&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE"
+    },
+    {
+      "name": "🇨🇿 CZ | Прага",
+      "link": "vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@103.119.18.91:443?security=reality&encryption=none&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=fcd9787f#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20%D0%9F%D1%80%D0%B0%D0%B3%D0%B0"
+    }
+  ],
+  "settings": {
+    "autoSelect": true,
+    "selectionMethod": "lowestLatency",
+    "checkInterval": 30,
+    "retryCount": 3,
+    "fallbackServer": "🇩🇪 Германия • Игровой"
+  }
+}
