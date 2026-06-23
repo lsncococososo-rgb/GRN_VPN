@@ -2,7 +2,7 @@
 #profile-update-interval: 2
 #support-url: https://t.me/info_Grina
 #announce: Интерент без границ!
-#subscription-userinfo: upload=0; download=0; total=10737412929928240; expire=0
+#subscription-userinfo: upload=0; download=0; total=10737418240; expire=1761436800
 
 vless://79e5344f-d50b-444b-9748-30146e66663c@ru.fast-cone.com:443?security=reality&encryption=none&pbk=MtmQRo_fBuvzEa7gFKDrTrJhtn0DcIq-IJNTupxZJSc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&sid=9f#%F0%9F%87%B7%F0%9F%87%BA%20YouTube%20%E2%80%A2%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
 vless://79e5344f-d50b-444b-9748-30146e66663c@swe.fast-cone.com:443?security=reality&encryption=none&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=swe.fast-cone.com&sid=44#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
