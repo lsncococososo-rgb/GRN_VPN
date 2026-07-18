@@ -2,7 +2,7 @@
 #profile-update-interval: 2
 #support-url: https://t.me/info_Grina
 #announce: Интерент без границ!
-#subscription-userinfo: upload=0; download=0; total=10737418240; expire=0
+#subscription-userinfo: upload=0; download=0; total=1073742727318240; expire=0
 
 vless://Fluffy_VPN-aa5AEOfU@94.141.162.45:443?security=reality&encryption=none&pbk=fNxYbOro4V4AO7CGX3cg4dIl63RUv2pQXhJ7Pybyby8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#🇳🇱 Нидерланды¹ | Wi-Fi
 vless://Fluffy_VPN-aa5AEOfU@195.209.213.197:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=HQ0VxCOAmyWRxFn1--m8FiMVxR9gwG5A9wJyGG6jXyk&host=absolute-disaster.org&fp=firefox&type=xhttp&sni=absolute-disaster.org#🇳🇱 Нидерланды² | Wi-Fi
