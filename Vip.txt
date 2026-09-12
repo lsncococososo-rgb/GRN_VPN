@@ -1,9 +1,3 @@
-#profile-title: GRN_VPN
-#profile-update-interval: 2
-#support-url: https://t.me/info_Grina
-#announce: VPN не гарантирует работа способность владелец - @apruxx
-#subscription-userinfo: upload=0; download=0; total=107374292918240; expire=0
-
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl1.hat.onl&sid=054602d818379876#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.77.219:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.hat.onl&sid=054602d818379876#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%202
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
